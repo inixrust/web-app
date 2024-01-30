@@ -1,7 +1,7 @@
 # Test web-app
 FROM alpine
 
-LABEL maintainer="inixrust@gmail.com"
+LABEL maintainer="rustinixbdg@gmail.com"
 
 # Install Node and NPM
 RUN apk add --update nodejs npm curl
